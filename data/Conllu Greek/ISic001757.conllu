@@ -1,0 +1,22 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	ου	NOLEMMA	NOPOS	Pp	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	2	det	_	_
+2	τάφος	τάφος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	εἰμί	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	παρελθῇς	παρέρχομαι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	πρὶν	πρίν	SCONJ	G-	_	10	mark	_	_
+6	σύ	σύ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	_
+7	γε	γε	PRT	Df	_	10	discourse	_	_
+8	ἑτέρῳ	ἕτερος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	10	advmod	_	_
+9	ὃς	ὅς	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	_
+10	θάνεν	θνῄσκω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
+11	ξεινοῖσι	ξένος	NOUN	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	10	obl:arg	_	_
+12	ος	NOLEMMA	NOPOS	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	15	nsubj	_	_
+13	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	_
+14	Φιλαδελφείης	Φιλαδελφεία	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	15	obl:arg	_	_
+15	ἀνεπαύσατο	ἀναπαύω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	11	acl	_	_
+

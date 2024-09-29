@@ -1,0 +1,17 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	μείλιχος	μείλιχος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Sing	2	amod	_	_
+2	εὐγενέτειρα	εύγενής	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+3	σαόφρων	σώφρων	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+4	κυδήεσσα	κυδήεις	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+5	σώματι	σῶμα	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	6	obl	_	_
+6	πληρῶ	πληρόω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	τάφον	τάφος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+8	Ἀλεσχίη	Ἀλεσχίη	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	7	appos	_	_
+9	φίλον	φίλος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	10	amod	_	_
+10	ἦτορ	ἦτορ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	appos	_	_
+

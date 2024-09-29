@@ -1,0 +1,12 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Μαρκιανὸς	Μαρκιανός	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	—ΑΜΕΝΟSΤΗϹ	NOLEMMA	NOPOS	Ne	_	1	conj	_	_
+5	—ϹΤΙΟΙϹΑΝΕΛΕ	NOLEMMA	NOPOS	Ne	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+7	—ΚΑΤΕΡΧΟΙ	NOLEMMA	NOPOS	Ne	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+9	ΜΕ—ΙΕΡΟΝΕΙ	NOLEMMA	NOPOS	Ne	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+

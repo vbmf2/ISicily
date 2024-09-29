@@ -1,0 +1,53 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	ἐνθάδε	ἐνθάδε	ADV	Df	_	19	advmod	_	_
+2	κῖτε	κεῖμαι	VERB	Df	_	19	advmod	_	_
+3	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+4	μακαρία	μακάριος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	Ἄπρα	Ἄπρα	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	_
+6	Κεντιανοῦ	Κεντιανός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+7	θυγάτηρ	θυγάτηρ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	appos	_	_
+8	καὶ	καί	CCONJ	C-	_	9	cc	_	_
+9	Ἀσκληπιαδότης	Ἀσκληπιαδότης	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	_
+10	δούλη	δοῦλος	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	appos	_	_
+11	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+12	ἀγαθή	ἀγαθός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+13	δένδρον	δένδρον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	appos	_	_
+14	καλῶς	καλός	ADV	Df	Degree=Pos	19	advmod	_	_
+15	ἐν	ἐν	ADP	R-	_	16	case	_	_
+16	πίστι	πίστις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	19	obl	_	_
+17	ἐφυτευμένον	φυτεύω	VERB	V-	Case=Dat|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	16	acl	_	_
+17	τῇ	ὁ	DET
+18	ὀλυγοχρονίᾳ	ὀλιγοχρόνιος	ADJ	Nb	Case=Dat|Gender=Fem|Number=Sing	19	obl	_	_
+19	ἀποχωριθῖσα	ἀποχωρίζω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+21	καὶ	καί	CCONJ	C-	_	27	cc	_	_
+22	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	25	det	_	_
+23	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	24	det	_	_
+24	κόσμου	κόσμος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	_
+25	ἀγάπης	ἀγάπη	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	_
+26	λύπην	λύπη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	27	obj	_	_
+27	καταλιποῦσα	καταλείπω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	19	advcl	_	_
+28	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	29	det	_	_
+29	ἰδίοις	ἴδιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	27	obl:arg	_	_
+30	Ἐπλήρωσε	πληρόω	VERB	Nb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	conj	_	_
+31	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	34	det	_	_
+32	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	33	det	_	_
+33	ψυχῆς	ψυχή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	34	nmod	_	_
+34	δάνος	δάνος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	35	obj	_	_
+35	τελευτῶσα	τελευτάω	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	30	advcl	_	_
+36	καλένδαις	kalendae	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	35	obl	_	_
+37	Ἀπριλίων	Aprilis	NOUN	Ne	Case=Gen|Gender=Masc|Number=Plur	36	nmod	_	_
+38	ὑπατία	ὑπατία	NOUN	R-	_	39	case	_	_
+40	ͅ	ͅ	ADJ	A-	_	39	amod	_	_
+41	Θεοδοσίου	Θεοδόσιος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	39	nmod	_	_
+42	τὸ	ὁ	PRON	S-	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	45	nsubj	_	_
+43	ει	ει	ADV	V-	_	39	cop	_	_
+44	καὶ	καί	CCONJ	C-	_	45	cc	_	_
+45	Βαλεντινιάνου	Βαλεντινίανος	PROPN	A-	Case=Gen|Gender=Masc|Number=Sing	39	conj	_	_
+46	τὸ	ὁ	DET	Pp	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	45	nsubj	_	_
+47	δ	δ	ADV	Df	_	45	discourse	_	_
+

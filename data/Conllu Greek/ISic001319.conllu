@@ -1,0 +1,24 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Θεοῖς	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	5	obl:arg	_	_
+2	Καταχθονίοις	καταχθόνιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	1	amod	_	_
+3	Πρειμιτεῖβε	Πρειμιτεῖβος	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	_
+4	χρηστὲ	χρηστός	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	5	advmod	_	_
+5	χαῖρε	χαίρω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	_
+6	ἔζησες	ζάω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	ἔτη	ἔτος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	_
+8	θ	θ	CCONJ	C-	_	12	cc	_	_
+9	Θεοῖς	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	12	obl:arg	_	_
+10	Καταχθονίοις	καταχθόνιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	9	amod	_	_
+11	Κοείντα	Κοείντας	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
+12	ἐβίωσεν	βιόω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	_
+13	ἔτη	ἔτος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	17	obl	_	_
+14	ιδ	ιδ	ADV	Nb	Case=Acc|Gender=Neut|Number=Plur	13	nmod	_	_
+15	Κοπρία	Κοπρία	PROPN	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	16	amod	_	_
+16	μήτηρ	μήτηρ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
+17	ἐποίησεν	ποιέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	_
+

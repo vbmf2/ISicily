@@ -1,0 +1,35 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	κόσμον	κόσμος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+3	ἅπαντα	πᾶς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+4	έως	NOLEMMA	NOPOS	R-	_	6	case	_	_
+5	καὶ	καί	ADV	Df	_	6	advmod	_	_
+6	Βασιλίδος	Βασιλίς	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	_
+7	ἀμέμπτως	ἄμεμπτος	ADV	Df	Degree=Pos	10	advmod	_	_
+8	καὶ	καί	CCONJ	C-	_	9	cc	_	_
+9	ἀκαταγνώστως	ἀκατάγνωστος	ADV	Df	Degree=Pos	7	conj	_	_
+10	ἔζησαν	ζάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	μοι	ἐγώ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	obl:arg	_	_
+12	ἔτη	ἔτος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	10	obj	_	_
+13	ιδ	ιδ	ADV	Nb	Case=Acc|Gender=Neut|Number=Plur	12	nmod	_	_
+14	ἐν	ἐν	ADP	R-	_	16	case	_	_
+15	ζήσασα	ζάω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	18	advcl	_	_
+16	ἔτη	ἔτος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	18	obl	_	_
+17	κη	κη	ADV	Df	_	18	discourse	_	_
+18	ὁρκίζω	ὁρκίζω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	parataxis	_	_
+19	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	20	det	_	_
+20	Παντοκράτορα	Παντοκράτωρ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	18	obj	_	_
+21	καὶ	καί	CCONJ	C-	_	26	cc	_	_
+22	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	24	det	_	_
+23	μέλλοντα	μέλλω	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	24	acl	_	_
+24	αἰῶνα	αἰών	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	26	obj	_	_
+25	μηδὲν'	μηδείς	DET	Px	Case=Acc|Gender=Masc|Number=Sing	24	det	_	_
+26	ἀνῦξαι	ἀνοίγνυμι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	18	conj	_	_
+27	ἐκείνων	ἐκεῖνος	PRON	Pd	Case=Gen|Gender=Neut|Number=Plur	28	det	_	_
+28	κατάθεσιν	κατάθεσις	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	26	obl	_	_
+

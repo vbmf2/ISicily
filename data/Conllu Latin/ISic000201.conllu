@@ -1,0 +1,32 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Nicarin	Nicaris	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
+2	Munatiae	Munatia	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	1	appos	_	_
+3	Luci	Lucius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+4	libertae	liberta	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	appos	_	_
+5	Zosimae	Zosima	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	filia	filia	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	1	appos	_	_
+7	hymnetria	hymnetria	PROPN	Nb	Case=Abl|Gender=Fem|Number=Sing	11	obl	_	_
+8	a	a	ADP	R-	_	9	case	_	_
+9	sacris	sacrum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	11	obl	_	_
+10	terra	terra	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	11	obl	_	_
+11	precor	precor	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	23	parataxis	_	_
+12	quaecumque	quicumque	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	13	acl	_	_
+13	iaces	iaceo	VERB	Nb	Case=Acc|Gender=Fem|Number=Plur	11	obj	_	_
+14	Nicario	Nicarius	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	13	obl:arg	_	_
+15	super	super	ADP	R-	_	16	case	_	_
+16	ossa	ossum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	13	obl	_	_
+17	sis	sum	AUX	V-	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	_
+18	levis	levis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Sing	23	advcl	_	_
+19	in	in	ADP	R-	_	21	case	_	_
+20	tenero	tener	ADJ	A-	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	corpore	corpus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	22	obl	_	_
+22	deposita	depono	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	23	advcl	_	_
+23	vixit	vivo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+24	annos	annus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	23	obj	_	_
+25	XVIII	XVIII	ADV	Ma	_	24	nummod	_	_
+

@@ -1,0 +1,35 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Hic	hic	ADV	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	_
+2	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux:pass	_	_
+3	positus	pono	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+4	Lurritanus	Lurritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	_
+5	in	in	ADP	R-	_	6	case	_	_
+6	pace	pax	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	3	obl	_	_
+7	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	_
+8	vixit	vivo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	acl	_	_
+9	annos	annus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	8	obj	_	_
+10	VI	VI	ADV	Ma	_	9	nummod	_	_
+11	VIIIdecem	octodecem	NUM	Ma	_	9	nummod	_	_
+12	menses	mensis	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	8	obl	_	_
+13	sex	sex	NUM	Ma	_	12	nummod	_	_
+14	dies	dies	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	9	appos	_	_
+15	VIII	VIII	ADV	Ma	_	14	nummod	_	_
+16	depositus	depono	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	9	conj	_	_
+17	XVI	XVI	ADV	Ma	_	16	nmod	_	_
+18	Kalendas	kalendae	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	16	conj	_	_
+19	novembres	November	NOUN	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	18	amod	_	_
+20	Dominis	dominus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	16	obl	_	_
+21	Nostris	noster	DET	Ps	Case=Abl|Number=Plur|Person=1|Poss=Yes	20	det	_	_
+22	Honorio	Honorius	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	20	appos	_	_
+23	XII	XII	ADV	Ma	_	22	flat:name	_	_
+24	et	et	CCONJ	C-	_	25	cc	_	_
+25	Theudosio	Theudosius	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	22	conj	_	_
+26	VIII	VIII	ADV	Ma	_	27	nummod	_	_
+27	consulibus	consul	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	22	conj	_	_
+28	Augustis	Augustus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Plur	27	nsubj	_	_
+

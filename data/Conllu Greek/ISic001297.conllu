@@ -1,0 +1,25 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	τὸν	ὁ	DET	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	3	obj	_	_
+2	εἴμι	εἶμι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	ἐπέχων	ἐπέχω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	_
+4	ἤλθεν	ἔρχομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	ἀφ	NOLEMMA	NOPOS	R-	_	7	case	_	_
+6	εἰς	εἰς	ADP	R-	_	7	case	_	_
+7	Ἅιδην	Ἅιδης	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
+8	ἔζησα	ζάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
+9	ἐτη	ἔτος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	_
+10	γενύων	γένυς	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	_
+11	τύμβον	τύμβος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	14	orphan	_	_
+12	δε	δέ	PRT	Df	_	14	discourse	_	_
+13	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	11	det	_	_
+14	Εὐκαρπον	Εὔκαρπος	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	8	conj	_	_
+15	ἑπτὰ	ἑπτά	NUM	Ma	_	14	nummod	_	_
+16	πρὶν	πρίν	SCONJ	G-	_	18	mark	_	_
+17	ὑπὸ	ὑπό	ADP	R-	_	18	case	_	_
+18	πνευμα	πνεῦμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	14	orphan	_	_
+

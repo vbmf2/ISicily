@@ -1,0 +1,14 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Dis	dis	NOUN	R-	_	2	case	_	_
+2	Manibus	manes	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	5	obl	_	_
+3	Primi	Primus	PROPN	Mo	Case=Nom|Gender=Masc|Number=Plur	2	nmod	_	_
+4	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	_
+5	vixit	vivo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	annis	annus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	5	obl	_	_
+7	XVIII	XVIII	ADV	Ma	_	6	nummod	_	_
+

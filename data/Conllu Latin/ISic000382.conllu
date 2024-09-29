@@ -1,0 +1,12 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Vibullius	Vibullius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Fortunatus	Fortunatus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	vixit	vivo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	annis	annus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	3	obl	_	_
+5	LX	LX	ADV	Df	_	4	nummod	_	_
+

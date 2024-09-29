@@ -1,0 +1,19 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Titus	Titus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Statilius	Statilius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	Hilarus	Hilarus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+4	in	in	ADP	R-	_	5	case	_	_
+5	fronte	frons	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	1	orphan	_	_
+6	pedes	pes	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	orphan	_	_
+7	XII	XII	ADV	Ma	_	6	nummod	_	_
+8	in	in	ADP	R-	_	9	case	_	_
+9	agro	ager	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	6	nmod	_	_
+10	pedes	pes	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	orphan	_	_
+11	VIII	VIII	ADV	Df	_	10	nummod	_	_
+12	G	NOLEMMA	NOPOS	Df	_	11	fixed	_	_
+

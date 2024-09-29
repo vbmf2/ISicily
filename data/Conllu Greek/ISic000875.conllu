@@ -1,0 +1,21 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	ἀνδρὶ	ἀνήρ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	obl:arg	_	_
+2	δὲ	δέ	PRT	Df	_	7	discourse	_	_
+3	σῆς	σός	DET	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=2|Poss=Yes	4	det	_	_
+4	μορφῆς	μορφή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+5	τρισσοὺς	τρισσός	ADJ	A-	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	_
+6	λίπες	λείπω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	_
+7	ἔκτυπα	ἔκτυπος	ADJ	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	πίστιν	πίστις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+9	διένειμα	διανέμω	VERB	Nb	Case=Nom|Gender=Neut|Number=Sing	8	appos	_	_
+10	ἐπ’	ἐπί	ADP	R-	_	12	case	_	_
+11	ἐμῇ	ἐμός	DET	Ps	Case=Dat|Gender=Fem|Number=Sing|Person=1|Poss=Yes	12	det	_	_
+12	παράκοιτι	παράκοιτις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	7	obl	_	_
+13	βιότοιο	βίοτος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+14	ετ	NOLEMMA	NOPOS	V-	_	12	cop	_	_
+

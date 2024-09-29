@@ -1,0 +1,22 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	κύριός	κύριος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	det	_	_
+4	Εὐάγριος	Εὐάγριος	PROPN	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+5	ἐχαρίσατό	χαρίζομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	μοι	ἐγώ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	obl:arg	_	_
+7	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+8	τόπον	τόπος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+9	ἐμοὶ	ἐγώ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	obl:arg	_	_
+10	Θεοδούλῳ	θεόδουλος	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	5	obl:arg	_	_
+11	καὶ	καί	CCONJ	C-	_	12	cc	_	_
+12	κῖντε	κεῖμαι	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+13	Κωστάντις	Κωστάντις	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+14	καὶ	καί	CCONJ	C-	_	15	cc	_	_
+15	Κεκιλία	Κεκιλία	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	13	conj	_	_
+

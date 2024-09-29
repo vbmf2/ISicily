@@ -1,0 +1,86 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	ŠLWM	NOLEMMA	NOPOS	Df	_	13	advmod	_	_
+4	῾LYŚR᾿L	NOLEMMA	NOPOS	Df	_	1	fixed	_	_
+6	᾿MN	NOLEMMA	NOPOS	Df	_	1	fixed	_	_
+7	᾿MN	NOLEMMA	NOPOS	Df	_	1	fixed	_	_
+8	ŠLWM	NOLEMMA	NOPOS	Df	_	1	fixed	_	_
+9	ŠMW᾿L	NOLEMMA	NOPOS	Df	_	1	fixed	_	_
+10	ego	ego	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+11	Aurelius	Aurelius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+12	Samohil	Samohil	PROPN	Ne	_	11	flat:name	_	_
+13	conparabi	comparo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+14	memoriam	memoria	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+15	mihi	ego	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	13	obl:arg	_	_
+16	et	et	CCONJ	C-	_	23	cc	_	_
+17	oxoris	uxor	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+18	meae	meus	DET	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes	17	det	_	_
+19	Lasie	Lasie	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	23	obl	_	_
+20	Erine	Erine	PROPN	Ne	_	23	advmod	_	_
+21	que	qui	PRON	C-	_	23	cc	_	_
+22	fatum	fatum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	23	obj	_	_
+23	conplebit	compleo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	13	conj	_	_
+24	XII	XII	ADV	Ma	_	23	obj	_	_
+25	kalendas	kalendae	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	23	obj	_	_
+26	Novebres	November	NOUN	Nb	_	25	amod	_	_
+27	diae	dius	ADJ	Nb	Case=Abl|Gender=Fem|Number=Sing	23	obl	_	_
+28	Veneris	Venus	PROPN	Nb	Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	_
+29	luna	luna	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	23	obl	_	_
+30	octaba	Octaba	PROPN	Nb	Case=Abl|Gender=Fem|Number=Sing	27	nmod	_	_
+31	Merobaudes	Merobaudes	PROPN	Ne	Case=Acc|Gender=Masc|Number=Plur	23	nsubj	_	_
+32	iterum	iterum	ADV	Df	_	23	advmod	_	_
+33	et	et	CCONJ	C-	_	34	cc	_	_
+34	Satornino	Satorninus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	35	nsubj	_	_
+35	consulibus	consul	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	23	advcl	_	_
+36	quae	qui	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	37	nsubj	_	_
+37	vixit	vivo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	34	acl	_	_
+38	annos	annus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	37	obj	_	_
+39	XXIII	XXIII	ADV	Ma	_	38	nummod	_	_
+40	cum	cum	ADP	R-	_	41	case	_	_
+41	pace	pax	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	42	obl	_	_
+42	adiuro	adiuro	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	37	advcl	_	_
+43	vos	vos	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	42	obj	_	_
+44	per	per	ADP	R-	_	45	case	_	_
+45	victorias	victoria	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	42	obl	_	_
+46	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	47	nsubj	_	_
+47	inperant	impero	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	45	acl	_	_
+48	item	item	ADV	Df	_	49	advmod	_	_
+49	adiuro	adiuro	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	47	conj	_	_
+50	vos	vos	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	49	obj	_	_
+51	per	per	ADP	R-	_	52	case	_	_
+52	honores	honor	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	49	obl	_	_
+53	patriarcarum	patriarcharca	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	52	nmod	_	_
+54	item	item	ADV	Df	_	55	advmod	_	_
+55	adiuro	adiuro	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	_
+56	vos	vos	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	55	obj	_	_
+57	per	per	ADP	R-	_	58	case	_	_
+58	ligem	lex	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	55	obl	_	_
+59	quem	qui	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	61	obj	_	_
+60	Dominus	dominus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	61	nsubj	_	_
+61	dedit	do	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	58	acl	_	_
+62	Iudeis	Iudei	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	61	obl:arg	_	_
+63	ni	ni	SCONJ	G-	_	65	mark	_	_
+64	quis	quis	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	65	nsubj	_	_
+65	aperiat	aperio	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	55	advcl	_	_
+66	memoriam	memoria	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	65	obj	_	_
+67	et	et	CCONJ	C-	_	68	cc	_	_
+68	mittat	mitto	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	65	conj	_	_
+69	corpus	corpus	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	68	obj	_	_
+70	alienum	alienus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	69	amod	_	_
+71	supra	supra	ADP	R-	_	72	case	_	_
+72	ossa	os	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	68	obl	_	_
+73	nostra	noster	DET	Ps	Case=Acc|Gender=Neut|Number=Plur|Person=1|Poss=Yes	72	det	_	_
+74	si	si	SCONJ	G-	_	77	mark	_	_
+75	quis	quis	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	77	nsubj	_	_
+76	autem	autem	ADV	Df	_	78	discourse	_	_
+77	aperiverit	aperio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	78	advcl	_	_
+78	dit	do	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	65	conj	_	_
+79	fisco	fiscus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	78	obl:arg	_	_
+80	argendi	argentum	NOUN	V-	Case=Gen|VerbForm=Ger	79	acl	_	_
+81	pondo	pondo	ADV	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	78	advcl	_	_
+82	decem	decem	NUM	Ma	_	79	nummod	_	_
+

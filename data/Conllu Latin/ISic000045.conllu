@@ -1,0 +1,17 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Dis	dis	NOUN	R-	_	2	case	_	_
+2	Manibus	manes	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	5	obl	_	_
+3	sacrum	sacrum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+4	anthe	NOLEMMA	NOPOS	Df	_	5	advmod	_	_
+5	vixit	vivo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	annos	annus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	_
+7	VII	VII	ADV	Ma	_	6	nummod	_	_
+8	nepoti	nepos	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	10	obl:arg	_	_
+9	me	NOLEMMA	NOPOS	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	obj	_	_
+10	fecit	facio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+

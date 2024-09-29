@@ -1,0 +1,14 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Θεοῖς	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	4	obl:arg	_	_
+2	Κατακθονίοις	καταχθόνιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	1	amod	_	_
+3	Θρεπτύλος	Θρεπτύλος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	ἔζησεν	ζάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	μῆνας	μείς	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	_
+6	Εὐφροσύνη	Εὐφροσύνη	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+7	μήτηρ	μήτηρ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	appos	_	_
+

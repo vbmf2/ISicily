@@ -1,0 +1,13 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Σ	NOLEMMA	NOPOS	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	Σκρειβωνι	Σκρείβων	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	obl:arg	_	_
+3	ἔζησεν	ζάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ἔτη	ἔτος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	3	obl	_	_
+5	μῆνας	μείς	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	obl	_	_
+6	ἡμέρας	ἡμέρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	5	nmod	_	_
+

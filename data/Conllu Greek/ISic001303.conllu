@@ -1,0 +1,23 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Ἰουλία	Ἰουλία	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+2	Γερμᾶνα	Γερμᾶνα	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+3	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	θεοφιλὴς	θεοφιλής	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	appos	_	_
+5	ἔζησεν	ζάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	ἔτη	ἔτος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	_
+7	ιδ	ιδ	ADV	Nb	Case=Acc|Gender=Neut|Number=Plur	6	nmod	_	_
+8	μῆνας	μείς	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	obl	_	_
+9	ια	ια	ADV	A-	_	8	nummod	_	_
+10	ἡμέρας	ἡμέρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	16	obl	_	_
+11	ιε	ιε	ADV	Nb	_	10	nmod	_	_
+12	Ἰούλιος	Ἰούλιος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+13	Γερμᾶνος	Γερμᾶνος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+14	γλυκυτάτῃ	γλυκύς	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	θυγατρὶ	θυγάτηρ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	16	obl	_	_
+16	ἐποίησεν	ποιέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+

@@ -1,0 +1,27 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Octavius	Octavius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+2	Titi	Titus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+3	filius	filius	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	Cornelianus	Cornelianus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5	vixit	vivo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	annis	annus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	5	obl	_	_
+7	XXII	XXII	ADV	Ma	_	6	nummod	_	_
+8	mensibus	mensis	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	5	obl	_	_
+9	I	NOLEMMA	NOPOS	Ne	_	6	nmod	_	_
+10	Titus	Titus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+11	Octavius	Octavius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	flat:name	_	_
+12	charmo	NOLEMMA	NOPOS	Nb	Case=Abl|Gender=Masc|Number=Sing	10	appos	_	_
+13	et	et	CCONJ	C-	_	14	cc	_	_
+14	Spendusa	Spendusa	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	12	conj	_	_
+15	parentes	parens	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	_
+16	fecerunt	facio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+17	hoc	hic	ADV	Pd	Case=Acc|Gender=Neut|Number=Sing	18	det	_	_
+18	monumentum	monumentum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	_
+19	sive	sive	CCONJ	C-	_	20	cc	_	_
+20	sepulchrum	sepulcrum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	18	conj	_	_
+

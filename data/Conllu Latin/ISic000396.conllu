@@ -1,0 +1,28 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Crescentiae	Crescentia	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	21	nsubj	_	_
+2	bene	bonus	ADV	Df	Degree=Pos	3	advmod	_	_
+3	merenti	mereor	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	21	advcl	_	_
+4	in	in	ADP	R-	_	5	case	_	_
+5	pace	pax	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	3	obl	_	_
+6	quae	qui	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	7	nsubj	_	_
+7	vixit	vivo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl	_	_
+8	annis	annus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	7	obl	_	_
+9	plus	multum	ADV	Df	Degree=Cmp	12	advmod	_	_
+10	minus	parvus	ADV	Df	Degree=Cmp	9	advmod	_	_
+11	L	L	ADV	Ne	_	9	obl	_	_
+12	deposita	depono	VERB	V-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	21	advcl	_	_
+13	III	III	ADV	Df	_	21	advmod	_	_
+14	Kalendas	kalendae	NOUN	Df	_	13	fixed	_	_
+15	Decembres	December	NOUN	Df	_	13	fixed	_	_
+16	Flavio	Flavius	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	21	obl:arg	_	_
+17	Opilione	Opilio	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	16	flat:name	_	_
+18	consule	consul	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	16	appos	_	_
+19	se	se	PRON	Pk	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	21	obj	_	_
+20	vivi	vivus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	21	advmod	_	_
+21	conparaverunt	comparo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+

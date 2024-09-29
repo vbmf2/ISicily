@@ -1,0 +1,27 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	ἐνθάδε	ἐνθάδε	ADV	Df	_	7	advmod	_	_
+2	κῖτε	κεῖμαι	VERB	Df	_	4	mark	_	_
+3	Παῦλα	Παῦλα	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+4	ζήσασα	ζάω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	_
+5	ἔτη	ἔτος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	4	obl	_	_
+6	κε	κε	ADV	Df	_	7	advmod	_	_
+7	ἀνέλυσε	ἀναλύω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	δὲ	δέ	PRT	Df	_	7	discourse	_	_
+9	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
+10	βίον	βίος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+11	πρὸ	πρό	ADP	R-	_	12	case	_	_
+12	η	η	ADV	Pr	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel	13	obl	_	_
+13	καλανδῶν	kalendae	NOUN	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	_
+14	Δεκενβρίων	December	NOUN	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	15	amod	_	_
+15	ὑπατίᾳ	ὑπατία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	13	obl	_	_
+16	Ἱερίου	Ἱερίας	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+17	καὶ	καί	CCONJ	C-	_	18	cc	_	_
+18	Ἀρταβουρίου	Ἀρταβουρίας	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	16	conj	_	_
+19	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	20	det	_	_
+20	λανπροτάτων	λαμπρός	ADJ	A-	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	18	nmod	_	_
+

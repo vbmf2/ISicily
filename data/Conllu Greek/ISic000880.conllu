@@ -1,0 +1,49 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	αἶψα	αἶψα	ADV	Df	_	7	advmod	_	_
+2	θανὼν	θνῄσκω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	_
+3	μετὰ	μετά	ADP	R-	_	4	case	_	_
+4	κῆρα	κῆρ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
+5	Νικοστράτου	Νικίστρατος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	ἐνθάδε	ἐνθάδε	ADV	Df	_	7	advmod	_	_
+7	κεῖμαι	κεῖμαι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	αἰαῖ	αἰαῖ	INTJ	I-	_	7	discourse	_	_
+9	ἀπολλύμενος	ἀπόλλυμι	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	7	advcl	_	_
+10	δεσπότου	δεσπότης	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	obl:arg	_	_
+11	ἀμφ’	ἀμφί	ADP	R-	_	12	case	_	_
+12	ὀδύνῃ	ὀδύνη	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	15	obl	_	_
+13	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	det	_	_
+14	γὰρ	γάρ	PRT	Df	_	15	discourse	_	_
+15	γενόμην	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	7	conj	_	_
+16	καὶ	καί	CCONJ	C-	_	22	cc	_	_
+17	ἐπίτροπος	ἐπίτροπος	ADJ	Nb	Case=Nom|Gender=Masc|Number=Sing	15	conj	_	_
+18	οὔνομα	ὄνομα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_	_
+19	δ’	δέ	PRT	Df	_	22	discourse	_	_
+20	ἦν	εἰμί	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	cop	_	_
+21	μοι	ἐγώ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	22	obl	_	_
+22	δείλαιος	δείλαιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	conj	_	_
+23	Ἀγάθων	Ἀγάθων	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
+24	δακρυόεις	δακρυόεις	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+25	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	26	det	_	_
+26	βίος	βίος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
+27	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	30	det	_	_
+28	πρὸ	πρό	ADP	R-	_	29	case	_	_
+29	α	α	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	30	obl	_	_
+30	νωνῶν	nona	NOUN	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	26	nmod	_	_
+31	Φεβρουαρίων	Februarius	NOUN	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	30	nmod	_	_
+32	μετὰ	μετά	ADP	R-	_	34	case	_	_
+33	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	34	det	_	_
+34	ὑπατίαν	ὑπατία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	30	obl	_	_
+35	Ὁνορίου	Ὀνόριος	PROPN	Nb	Case=Gen|Gender=Neut|Number=Sing	34	nmod	_	_
+36	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	37	det	_	_
+37	η	η	ADV	Ne	_	34	nmod	_	_
+38	καὶ	καί	CCONJ	C-	_	39	cc	_	_
+39	Θεοδοσίου	Θεοδόσιος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	37	conj	_	_
+40	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	42	det	_	_
+41	γ	γ	ADV	Df	_	42	discourse	_	_
+42	Σεβαστῶν	Σεβαστός	PROPN	Nb	Case=Gen|Gender=Masc|Number=Plur	37	nmod	_	_
+

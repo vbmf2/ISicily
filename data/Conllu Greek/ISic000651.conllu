@@ -1,0 +1,18 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	αὐτῷ	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl:arg	_	_
+2	τύμβον	τύμβος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
+3	τῷδε	ὅδε	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	4	det	_	_
+4	τάφῳ	τάφος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	_
+5	ἐκ	ἐκ	ADP	R-	_	6	case	_	_
+6	διαθήκων	διαθήκη	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	9	obl	_	_
+7	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	_
+8	στέφος	στέφος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	_
+9	ἀμφέθετο	ἀμφιτίθημι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+10	δόσις	δόσις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+11	υἱῷ	υἱός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	_
+

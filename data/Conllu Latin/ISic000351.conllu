@@ -1,0 +1,18 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	annis	annus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	11	obl	_	_
+2	LXXVI	LXXVI	ADV	Df	_	1	nummod	_	_
+3	mense	mensis	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	1	nmod	_	_
+4	I	I	PROPN	Ne	_	1	nmod	_	_
+5	avia	NOLEMMA	NOPOS	Nb	Case=Abl|Gender=Fem|Number=Sing	11	nsubj	_	_
+6	Cai	Caius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+7	filia	filia	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+8	Faustina	Faustina	ADJ	A-	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+9	matri	mater	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	11	obl:arg	_	_
+10	piae	pius	ADJ	Nb	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	fecit	facio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+

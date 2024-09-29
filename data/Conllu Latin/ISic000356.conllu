@@ -1,0 +1,18 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	annis	annus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	5	obl	_	_
+2	XVI	XVI	ADV	Ma	_	1	nummod	_	_
+3	diebus	dies	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	5	obl	_	_
+4	XXI	XXI	ADV	Ma	_	1	nummod	_	_
+5	fecit	facio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	Iulius	Iulius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+7	Pancarpus	Pancarpus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	_
+8	et	et	CCONJ	C-	_	9	cc	_	_
+9	Iulia	Iulia	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	_
+10	Eutyχis	Eutykhis	PROPN	Ne	_	9	flat:name	_	_
+13	mater	mater	NOUN	Nb	_	11	appos	_	_
+

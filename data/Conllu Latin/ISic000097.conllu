@@ -1,0 +1,49 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	ae	NOLEMMA	NOPOS	I-	_	0	root	_	_
+2	Luci	Lucius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+3	filiae	filia	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	appos	_	_
+4	Proculae	Procula	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+5	Spuri	Spurius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	flat:name	_	_
+6	filio	filius	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	7	appos	_	_
+7	Claudia	Claudia	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	1	conj	_	_
+8	Plaetorio	Plaetorius	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	flat:name	_	_
+9	quaestori	quaestor	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	7	appos	_	_
+10	aedili	aedilis	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+11	IIviro	duovir	NOUN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	flat:name	_	_
+12	io	NOLEMMA	NOPOS	Nb	Case=Abl|Gender=Masc|Number=Sing	7	appos	_	_
+13	Quinti	Quintus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+14	filio	filius	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	11	appos	_	_
+15	Quirina	Quirinus	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	flat:name	_	_
+16	Galeoni	Galeon	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	15	flat:name	_	_
+17	cui	qui	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	22	obl:arg	_	_
+18	ordo	ordo	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
+19	decurionum	decurio	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	18	nmod	_	_
+20	ornamenta	ornamentum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	22	obj	_	_
+21	aedilicia	aedilicius	ADJ	Nb	Case=Acc|Gender=Neut|Number=Plur	20	amod	_	_
+22	decrevit	decerno	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	acl	_	_
+23	ae	NOLEMMA	NOPOS	Nb	_	27	nmod	_	_
+24	Luci	Lucius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	_
+25	filiae	filia	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	24	appos	_	_
+26	Longinae	Longina	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+27	filius	filius	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	22	conj	_	_
+28	Claudia	Claudia	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	27	appos	_	_
+29	Proculus	Proculus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	28	flat:name	_	_
+30	quaestor	quaestor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	28	appos	_	_
+31	IV	IV	ADV	Ne	Case=Nom|Gender=Masc|Number=Sing	30	nmod	_	_
+32	praefectus	praefectus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	28	appos	_	_
+33	pro	pro	ADP	R-	_	34	case	_	_
+34	duoviro	duovir	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	32	nmod	_	_
+36	II	II	ADV	Ne	_	32	nmod	_	_
+37	vir	vir	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	36	appos	_	_
+38	quinquennalis	quinquennalis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Sing	37	amod	_	_
+39	tribunus	tribunus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	36	appos	_	_
+40	militum	miles	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	39	nmod	_	_
+41	legionis	legio	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	39	nmod	_	_
+42	VI	VI	ADV	Ne	Case=Gen|Gender=Masc|Number=Sing	41	nmod	_	_
+43	Ferratae	Ferrata	PROPN	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	42	appos	_	_
+

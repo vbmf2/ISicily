@@ -1,0 +1,16 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	a	a	PROPN	R-	_	2	case	_	_
+2	Aulus	Aulus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	Fabricius	Fabricius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	Auli	Aulius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+5	filius	filius	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+6	Primus	primus	ADJ	Mo	Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	_
+7	Postumia	Postumia	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	5	nmod	_	_
+8	Fausta	Fausta	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	_
+9	Fabricia	Fabricius	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	8	flat:name	_	_
+

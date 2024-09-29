@@ -1,0 +1,19 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Σεπτίκις	Σεπτίκις	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+2	Ὡραὶς	Ὡραίς	PROPN	Nb	Case=Dat|Gender=Fem|Number=Plur	1	nmod	_	_
+3	χρηστὸς	χρηστός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	amod	_	_
+4	καὶ	καί	CCONJ	C-	_	6	cc	_	_
+5	ἄμεμπτος	ἄμεμπτος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	xcomp	_	_
+6	ἔζησεν	ζάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	ἔτη	ἔτος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	6	obl	_	_
+8	νε	νε	ADV	Df	_	11	advmod	_	_
+9	μῆνες	μείς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+10	γ	γ	ADV	Df	_	11	discourse	_	_
+11	ἡμέρες	ἡμέρα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	9	nmod	_	_
+12	ει	ει	ADV	V-	_	11	cop	_	_
+

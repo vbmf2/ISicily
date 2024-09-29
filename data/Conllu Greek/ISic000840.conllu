@@ -1,0 +1,16 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Θεοῖς	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	5	obl:arg	_	_
+2	Καταχθονίοις	καταχθόνιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	1	amod	_	_
+3	Ἀφροδισιὰς	Ἀφροδισιάς	PROPN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	obj	_	_
+4	Διονυσίου	Διονύσιος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	χαῖρε	χαίρω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	Φιλίστη	Φιλίστη	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+7	μήτηρ	μήτηρ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+8	ἐποίησε	ποιέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	_
+9	ζησάσῃ	ζάω	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Pass	8	advcl	_	_
+

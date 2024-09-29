@@ -1,0 +1,19 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Dis	dis	NOUN	R-	_	2	case	_	_
+2	Manibus	manes	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	9	obl	_	_
+3	Arescusa	Arescusa	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+4	mater	mater	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+5	Soteridi	Soteridus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	filiae	filia	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	appos	_	_
+7	bene	bonus	ADV	Df	Degree=Pos	8	advmod	_	_
+8	merenti	mereor	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	advcl	_	_
+9	vixit	vivo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	annis	annus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	9	obl	_	_
+11	numero	numerus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	10	nmod	_	_
+12	XXIIII	XXIIII	ADV	Ma	_	11	fixed	_	_
+

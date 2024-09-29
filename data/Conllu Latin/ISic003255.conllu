@@ -1,0 +1,21 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	vixit	vivo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	annis	annus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	1	obl	_	_
+3	XVIII	XVIII	ADV	Df	_	2	nummod	_	_
+4	Lucius	Lucius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+5	Stati	Statius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	flat:name	_	_
+6	parus	NOLEMMA	NOPOS	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	pater	pater	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+8	fecit	facio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+9	huius	hic	ADV	Pd	Case=Gen|Number=Sing	10	det	_	_
+10	monumenti	monumentum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	8	obl:arg	_	_
+11	post	post	ADP	R-	_	12	case	_	_
+12	obitum	obitus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
+13	meum	meus	DET	Ps	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=1|Poss=Yes	12	det	_	_
+14	HA	NOLEMMA	NOPOS	Pd	_	12	appos	_	_
+

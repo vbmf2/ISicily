@@ -1,0 +1,17 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Luci	Lucius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
+2	Iu	NOLEMMA	NOPOS	Ne	Case=Gen|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	pie	pius	ADJ	Nb	Case=Abl|Gender=Masc|Number=Sing	1	orphan	_	_
+4	frugi	NOLEMMA	NOPOS	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	Luci	Lucius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	Papi	Papius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	Ad	NOLEMMA	NOPOS	R-	_	8	case	_	_
+8	Papia	Papia	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	10	orphan	_	_
+9	Eu	NOLEMMA	NOPOS	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	8	flat:name	_	_
+10	mater	mater	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+

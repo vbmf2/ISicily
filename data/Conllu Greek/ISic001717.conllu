@@ -1,0 +1,13 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Μέριτα	Μέριτα	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	_
+2	ἐνθὰδε	ἐνθάδε	ADV	Df	_	4	advmod	_	_
+3	κῖτε	κεῖμαι	ADV	Df	_	4	advmod	_	_
+4	τελεύτησεν	τελευτάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	καλάνδαις	kalendae	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	4	obl	_	_
+6	Νοβενβρἰαις	November	NOUN	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	5	amod	_	_
+

@@ -1,0 +1,31 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Lucio	Lucius	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	21	orphan	_	_
+2	Acilio	Acilius	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	Luci	Lucius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	1	flat:name	_	_
+4	filio	filius	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	_
+5	Quirina	Quirina	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	1	flat:name	_	_
+6	Rufo	Rufus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	1	flat:name	_	_
+7	quaestori	quaestor	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	_
+8	propraetore	propraetor	NOUN	R-	_	9	case	_	_
+10	provinciae	provincia	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	Siciliae	Sicilia	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	tribuno	tribunus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	1	appos	_	_
+13	plebis	plebs	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	prraetori	praetor	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	12	nmod	_	_
+15	praefecto	praefectus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	_
+16	frumenti	frumentum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+17	dandi	do	VERB	V-	Case=Gen|VerbForm=Ger	12	acl	_	_
+18	ex	e	ADP	R-	_	20	case	_	_
+19	senatus	senatus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+20	consulto	consultum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	17	obl	_	_
+21	Hispellates	Hispellates	PROPN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+22	publice	publicus	ADV	Df	_	24	advmod	_	_
+23	decurionum	decurio	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	_
+24	decreto	decretum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	21	orphan	_	_
+25	patrono	patronus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	24	nmod	_	_
+

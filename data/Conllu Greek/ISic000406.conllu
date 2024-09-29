@@ -1,0 +1,40 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Perpennam	Perpennas	PROPN	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	15	nsubj	_	_
+2	Romanum	romanus	ADJ	Nb	Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+3	virum	vir	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+4	clarissimum	clarus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+5	consularem	consularis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+6	populus	populus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+7	Syracusanus	syracusanus	ADJ	A-	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
+8	Ῥωμανοῦ	Ῥωμανός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+9	πραπίδεσσι	πραπίδες	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	15	obl	_	_
+10	Συρηκοσίων	Συρακούσιος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	9	amod	_	_
+11	τόδε	ὅδε	DET	Pd	Case=Nom|Gender=Neut|Number=Sing	12	det	_	_
+12	ἄστυ	ἄστυ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_
+13	ἐκ	ἐκ	ADP	R-	_	14	case	_	_
+14	καμάτων	κάματος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	15	obl	_	_
+15	ἀνέπνευσε	ἀναπνέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+16	καὶ	καί	CCONJ	C-	_	17	cc	_	_
+17	ἔδρακεν	δέρκομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	conj	_	_
+18	ἴαρος	ἱερός	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+19	ὥρην	ὥρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	17	obj	_	_
+20	τοὔνεκα	τοὔνεκα	ADV	Df	_	23	advmod	_	_
+21	λαινέην	λαίνεος	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	23	obj	_	_
+22	μὲν	μέν	PRT	Df	_	23	discourse	_	_
+23	ἀνεστήσανθ’	ἀνίστημι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	15	conj	_	_
+24	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	25	det	_	_
+25	ἄριστοι	ἀγαθός	ADJ	A-	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	23	nsubj	_	_
+26	εἰκόνα	εἰκών	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	23	obj	_	_
+27	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	28	det	_	_
+28	σοφίης	σοφία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	_
+29	δὲ	δέ	PRT	Df	_	28	discourse	_	_
+30	καὶ	καί	CCONJ	C-	_	32	cc	_	_
+31	ἐν	ἐν	ADP	R-	_	32	case	_	_
+32	στήθεσσιν	στῆθος	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	33	obl	_	_
+33	ἔχουσειν	ἔχω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	23	conj	_	_
+

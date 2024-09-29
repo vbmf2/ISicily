@@ -1,0 +1,23 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Dis	dis	NOUN	R-	_	2	case	_	_
+2	manibus	manes	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	4	obl	_	_
+3	sacrum	sacrum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	amod	_	_
+4	Κλωδία	Κλωδία	PROPN	F-	_	0	root	_	_
+5	Βαλεντεῖνα	Βαλεντεῖνα	PROPN	F-	_	4	amod	_	_
+6	χαῖρε	χαίρω	VERB	F-	_	4	amod	_	_
+7	ἔζησεν	ζάω	VERB	F-	_	4	flat:foreign	_	_
+8	ἔτη	ἔτος	NOUN	F-	_	4	obl	_	_
+9	XXXX	XXX	ADV	F-	_	8	flat:foreign	_	_
+10	ἐποίησε	ποιέω	VERB	F-	_	7	obl	_	_
+11	ἰδίᾳ	ἴδιος	ADJ	F-	_	10	obl	_	_
+12	γυναικὶ	γυνή	NOUN	F-	_	11	flat:foreign	_	_
+13	Ἰγνᾶτις	Ἰγνᾶτις	PROPN	F-	_	11	flat:foreign	_	_
+14	Κάρικος	Κάρικος	PROPN	F-	_	11	flat:foreign	_	_
+15	μνήμης	μνήμη	NOUN	F-	_	11	flat:foreign	_	_
+16	χάριν	χάριν	ADP	F-	_	11	obl	_	_
+

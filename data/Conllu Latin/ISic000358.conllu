@@ -1,0 +1,16 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Lucius	Lucius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+2	Lollius	Lollius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	Daphnus	Daphnus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+4	hic	hic	ADV	Pd	Case=Nom|Gender=Masc|Number=Sing	1	det	_	_
+5	situs	sino	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	advcl	_	_
+6	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux:pass	_	_
+7	vixit	vivo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	annis	annus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	7	obl	_	_
+9	L	L	ADV	Ne	_	8	nmod	_	_
+

@@ -1,0 +1,16 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Σαβοῦκις	Σαβοῦκις	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Καλλίμορφος	Καλλίμορφος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	ἔζησεν	ζάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ἔτη	ἔτος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	3	obj	_	_
+5	λβ	λβ	ADV	Nb	_	4	nmod	_	_
+6	Σαβούκις	Σαβοῦκις	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+7	Ζωίλος	Ζωίλος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+8	πάτρων	πατήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	9	obl:arg	_	_
+9	ἐποίησε	ποιέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+

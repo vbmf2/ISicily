@@ -1,0 +1,20 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	ζῶν	ζάω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
+2	ἔχων	ἔχω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	_
+3	ὕδωρ	ὕδωρ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+4	εἰς	εἰς	ADP	R-	_	5	case	_	_
+5	μνημόσυνον	μνημόσυνον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	_
+6	αἰώνιον	αἰώνιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+7	ὑπὲρ	ὑπέρ	ADP	R-	_	8	case	_	_
+8	εὐχῆς	εὐχή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	_
+9	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
+10	δεσποτῶν	δεσπότης	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+11	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	det	_	_
+12	Ὑγεῖνος	Ὑγεῖνος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+13	καὶ	καί	CCONJ	C-	_	12	cc	_	_
+

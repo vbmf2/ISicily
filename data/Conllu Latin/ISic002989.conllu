@@ -1,0 +1,25 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	dis	dis	NOUN	V-	Case=Abl|Number=Plur	2	acl	_	_
+2	manibus	manes	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	8	obl	_	_
+3	sacrum	sacrum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	amod	_	_
+4	ianus	Ianus	PROPN	Nb	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+5	Augusti	Augustus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+6	libertus	libertus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+7	tabularius	tabularius	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+8	vixit	vivo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	annis	annus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	8	obl	_	_
+10	XXII	XXII	ADV	Ma	_	9	nummod	_	_
+11	mensibus	mensis	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	8	obl	_	_
+12	II	II	ADV	Df	_	9	nummod	_	_
+13	diebus	dies	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	8	obl	_	_
+14	XI	XI	ADV	Ma	_	9	nummod	_	_
+15	uxor	uxor	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+16	et	et	CCONJ	C-	_	17	cc	_	_
+17	fratres	frater	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	15	conj	_	_
+18	piissimo	pius	ADJ	A-	Case=Abl|Degree=Sup|Gender=Masc,Neut|Number=Sing	17	amod	_	_
+

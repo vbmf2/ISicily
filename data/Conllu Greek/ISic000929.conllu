@@ -1,0 +1,39 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	ἐνθάδε	ἐνθάδε	ADV	Df	_	2	advmod	_	_
+2	κεῖτε	κεῖμαι	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	Εὐτέρπη	Εὐτέρπη	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+4	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+5	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	6	det	_	_
+6	Μουσῶν	μοῦσα	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+7	σύντροφος	σύντροφος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	appos	_	_
+8	βιώσασα	βιόω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	advcl	_	_
+9	ἁγνῶς	ἁγνός	ADV	Df	Degree=Pos	8	advmod	_	_
+10	καὶ	καί	CCONJ	C-	_	11	cc	_	_
+11	ὁσείως	ὅσιος	ADV	Df	Degree=Pos	9	conj	_	_
+12	καὶ	καί	CCONJ	C-	_	13	cc	_	_
+13	ἀμέμπτως	ἄμεμπτος	ADV	Df	Degree=Pos	9	conj	_	_
+14	ἐπὶ	ἐπί	ADP	R-	_	16	case	_	_
+15	ἔτεσιν	ἔτος	NOM	Df	_	20	discourse	_	_
+17	κβ	κβ	ADV	Df	_	20	advmod	_	_
+18	μῆνας	μείς	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	20	obj	_	_
+19	γ	γ	ADV	Df	_	20	discourse	_	_
+20	ἐτελεύτησεν	τελευτάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+21	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	26	det	_	_
+22	πρὸ	πρό	ADP	R-	_	24	case	_	_
+23	ε	ε	ADV	Df	_	24	discourse	_	_
+24	καλανδῶν	kalendae	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	26	nmod	_	_
+25	Δεκεμβρίων	December	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	26	nmod	_	_
+26	ὑπατίᾳ	ὑπατία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	20	obl	_	_
+27	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	28	det	_	_
+28	κυρίων	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	26	nmod	_	_
+29	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	30	det	_	_
+30	ι	ι	ADV	Nb	_	20	obj	_	_
+31	καὶ	καί	CCONJ	C-	_	33	cc	_	_
+32	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	33	det	_	_
+33	γ	γ	ADV	Nb	_	30	conj	_	_
+

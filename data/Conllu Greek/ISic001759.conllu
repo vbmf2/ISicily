@@ -1,0 +1,23 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Ἐνθαδε	ἐνθάδε	ADV	Df	_	4	advmod	_	_
+2	κῖτε	κεῖμαι	ADV	Df	_	4	advmod	_	_
+3	Βενίγνα	Βενίγνα	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+4	ζησάσα	ζάω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	_
+5	καλῶς	καλός	ADV	Df	Degree=Pos	4	advmod	_	_
+6	τελεύτα	τελευτάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	δὲ	δέ	PRT	Df	_	6	discourse	_	_
+8	πρὸ	πρό	ADP	R-	_	9	case	_	_
+9	νώνας	nona	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	6	obl	_	_
+10	Φεβρουαρίας	Februarius	NOUN	Ne	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	ὑπατίᾳ	ὑπατία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	_
+12	Ταύρου	Ταύρος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	κὲ	καί	CCONJ	Df	_	14	discourse	_	_
+14	Φήλικος	Φήλικος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	_
+15	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	16	det	_	_
+16	λαμπρότατων	λαμπρός	ADJ	A-	Case=Acc|Degree=Sup|Gender=Masc|Number=Plur	14	nmod	_	_
+

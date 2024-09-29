@@ -1,0 +1,16 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	nobilissimus	nobilis	ADJ	A-	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	0	root	_	_
+2	Caesar	Caesar	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	chus	NOLEMMA	NOPOS	Nb	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+4	vir	vir	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+5	clarissimus	clarus	ADJ	A-	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	4	amod	_	_
+6	consularis	consularis	ADJ	A-	Case=Abl|Degree=Pos|Number=Sing	4	amod	_	_
+8	provinciae	provincia	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	Sicilae	Sicilia	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	Venantius	Venantius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+

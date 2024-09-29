@@ -1,0 +1,20 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Θεοῖς	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	5	obl:arg	_	_
+2	Κατακθονίοις	καταχθόνιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	1	amod	_	_
+3	Ἰουλία	Ἰουλία	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+4	Δομιτία	Δομιτία	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	_
+5	ἔζησεν	ζάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	ἔτη	ἔτος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	_
+7	ζ	ζ	ADV	Df	_	8	amod	_	_
+8	μῆνας	μείς	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	13	obj	_	_
+9	γ	γ	ADV	Df	_	8	discourse	_	_
+10	ἡμέρας	ἡμέρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	13	obl	_	_
+11	ε	ε	ADV	C-	_	13	cc	_	_
+12	Γονεῖς	Γονεῖς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	13	obj	_	_
+13	ἐποίησαν	ποιέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+

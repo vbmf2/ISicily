@@ -1,0 +1,42 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Ἐνθάδε	ἐνθάδε	ADV	Df	_	2	advmod	_	_
+2	κεῖται	κεῖμαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	Θεοδούλη	Θεοδούλη	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+4	τελευτοῦσα	τελευτάω	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	_
+5	ἐτῶν	ἔτος	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	4	obl:arg	_	_
+6	ἐγεννήθη	γεννάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	ccomp	_	_
+7	μὲν	μέν	PRT	Df	_	6	discourse	_	_
+8	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
+9	ὑπατείᾳ	ὑπατία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	6	obl:arg	_	_
+10	Αὐρηλιανοῦ	Αὐρηλιανός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	Αὐγούστου	Αὔγουστος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	10	flat:name	_	_
+12	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	13	det	_	_
+13	β	β	ADV	Nb	_	6	obj	_	_
+14	καὶ	καί	CCONJ	C-	_	15	cc	_	_
+15	Κλαυδίου	Κλαύδιος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	13	conj	_	_
+16	Καπιτωλείνου	Καπιτωλείνος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+17	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	18	det	_	_
+18	λαμπροτάτων	λαμπρός	ADJ	A-	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	15	nmod	_	_
+19	ἐτελεύτησε	τελευτάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+20	δὲ	δέ	PRT	Df	_	19	discourse	_	_
+21	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	24	det	_	_
+22	πρὸ	πρό	ADP	R-	_	23	case	_	_
+23	ς	ς	ADV	Df	_	24	obl	_	_
+24	νωνῶν	nona	NOUN	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	19	advcl	_	_
+25	μετὰ	μετά	ADP	R-	_	27	case	_	_
+26	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	27	det	_	_
+27	ὑπατείαν	ὑπατία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	24	obl	_	_
+28	Ὁνωρίου	Ὀνώριος	PROPN	Nb	Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	_
+29	Αὐγούστου	Αὔγουστος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	_
+30	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	31	det	_	_
+31	ια	ια	ADV	Nb	_	19	obj	_	_
+32	καὶ	καί	CCONJ	C-	_	33	cc	_	_
+33	Κουσταντίου	Κουστάντιος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	31	conj	_	_
+34	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	35	det	_	_
+35	β	β	ADV	Nb	_	31	conj	_	_
+

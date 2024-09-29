@@ -1,0 +1,14 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Popillio	Popillius	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	obl:arg	_	_
+2	Publi	Publius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+3	filio	filius	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	_
+4	Polllia	Polllia	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	1	flat:name	_	_
+5	tribu	tribus	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	7	obl	_	_
+6	domo	domus	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	7	obl:arg	_	_
+7	Pollentia	Pollentia	PROPN	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+

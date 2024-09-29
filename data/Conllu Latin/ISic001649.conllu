@@ -1,0 +1,24 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Sanctissimae	sanctus	ADJ	A-	Case=Nom|Degree=Sup|Gender=Fem|Number=Plur	2	amod	_	_
+2	coniugi	coniunx	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	0	root	_	_
+3	Zosime	Zosimus	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	2	appos	_	_
+4	fideli	fidelis	ADJ	A-	Case=Abl|Degree=Pos|Number=Sing	2	amod	_	_
+6	quae	qui	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	7	nsubj	_	_
+7	bixit	vivo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl	_	_
+8	annis	annus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	7	obl	_	_
+9	XXVI	XXVI	ADV	Ma	_	8	nummod	_	_
+10	et	et	CCONJ	C-	_	11	cc	_	_
+11	decessit	decedo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+12	XI	XI	ADV	Df	_	11	advmod	_	_
+13	Kalendas	kalendae	NOM	Df	_	12	fixed	_	_
+14	Octobris	October	NOUN	Df	_	12	fixed	_	_
+15	Amantio	Amantius	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	18	nsubj	_	_
+16	et	et	CCONJ	C-	_	17	cc	_	_
+17	Albino	Albinus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	15	conj	_	_
+18	consulibus	consul	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	11	advcl	_	_
+

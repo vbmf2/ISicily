@@ -1,0 +1,15 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Publicia	Publicia	PROPN	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	2	amod	_	_
+2	Agathia	Agathia	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+3	have	aveo	VERB	I-	_	8	discourse	_	_
+4	Publicius	Publicius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+5	Brutanus	Brutanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	_
+6	de	de	ADP	R-	_	7	case	_	_
+7	suo	suus	PRON	Pt	Case=Abl|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	8	obl	_	_
+8	fecit	facio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+

@@ -1,0 +1,16 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Publi	Publius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	10	nsubj	_	_
+2	liberto	libertus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	1	appos	_	_
+3	Lesbio	Lesbius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	liberto	libertus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	1	appos	_	_
+6	Damophilo	Damophilus	PROPN	Ne	_	10	nsubj	_	_
+9	tas	NOLEMMA	NOPOS	Nb	Case=Acc|Gender=Fem|Number=Plur	10	obj	_	_
+10	fecit	facio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	de	de	ADP	R-	_	12	case	_	_
+12	suo	suus	PRON	Pt	Case=Abl|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	10	obl	_	_
+

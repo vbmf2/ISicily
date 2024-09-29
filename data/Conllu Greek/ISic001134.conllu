@@ -1,0 +1,23 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	Πόπλιος	Πόπλιος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Κορνήλιος	Κορνήλιος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	Ποπλίου	Πόπλιος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+4	υἱὸς	υἱός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5	Σκιπίων	Σκιπίων	PROPN	A-	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	_
+6	Ἀφρικανὸς	Ἀφρικανός	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	ὕπατος	ὕπατος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+8	ἑλῶν	ἐλαύνω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	acl	_	_
+9	Καρχηδόνα	Καρχηδών	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	_
+10	κατά	κατά	ADP	R-	_	11	case	_	_
+11	κράτος	κράτος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
+12	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	15	det	_	_
+13	ἐξ	ἐκ	ADP	R-	_	14	case	_	_
+14	Ἱμέρας	Ἱμέρα	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+15	ἀνδριάντας	ἀνδριάς	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	8	obj	_	_
+16	Ἱμέραίοις	Ἱμεραῖος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	15	nmod	_	_
+

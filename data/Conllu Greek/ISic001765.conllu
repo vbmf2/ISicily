@@ -1,0 +1,11 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = ancient_greek-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+1	τύμβος	τύμβος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	Κάσια	Κάσια	PROPN	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	amod	_	_
+3	ἐνθάδε	ἐνθάδε	ADV	Df	_	4	advmod	_	_
+4	κεῖται	κεῖμαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+
